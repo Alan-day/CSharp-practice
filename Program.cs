@@ -1,14 +1,23 @@
-﻿switch (fruit)
+﻿
+
+for (int i = 1; i < 100; i++)
 {
-    case "apple":
-        Console.WriteLine($"App will display information for apple.");
-        break;
 
-    case "banana":
-        Console.WriteLine($"App will display information for banana.");
-        break;
+if (i % 3 == 0 && i % 5==0)
+    {
+        Console.WriteLine(i +"FizzBuzz");
 
-    case "cherry":
-        Console.WriteLine($"App will display information for cherry.");
-        break;
+}
+if (i % 3 == 0)
+    {
+        Console.WriteLine(i +"Fizz");
+
+}
+if (i % 5==0)
+    {
+        Console.WriteLine(i +"Buzz");
+
+}
+else
+{Console.WriteLine(i);}
 }
