@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj": {}
+    "C:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj": {}
   },
   "projects": {
-    "c:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj": {
+    "C:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectUniqueName": "C:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj",
         "projectName": "TestProject",
-        "projectPath": "c:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj",
+        "projectPath": "C:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\TestProject.csproj",
         "packagesPath": "C:\\Users\\leste\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\obj\\",
+        "outputPath": "C:\\Users\\leste\\Desktop\\C#\\CsharpProjects\\TestProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\leste\\AppData\\Roaming\\NuGet\\NuGet.Config"

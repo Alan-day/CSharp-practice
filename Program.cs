@@ -1,6 +1,14 @@
-﻿bool flag = true;
-if (flag)
+﻿switch (fruit)
 {
-    int value = 10;
-    Console.WriteLine($"Inside of code block: {value}");
+    case "apple":
+        Console.WriteLine($"App will display information for apple.");
+        break;
+
+    case "banana":
+        Console.WriteLine($"App will display information for banana.");
+        break;
+
+    case "cherry":
+        Console.WriteLine($"App will display information for cherry.");
+        break;
 }
